@@ -1,0 +1,7 @@
+*.a
+*.o
+blib.a
+*.txt
+.vscode
+tictactoe
+inputs
